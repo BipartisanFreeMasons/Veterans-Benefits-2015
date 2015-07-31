@@ -8,10 +8,15 @@
 # Veterans-Benefits-2015
 [$] (U.S.D.) : amounts of benefits per person
 
-# Cost of Living : (increase yearly)
+# Cost of Living : (yearly lump-sum benefits)
+Lump-Sum Benefits : [based on gender]
+[$] 6,400.00 (female gender)
+[$] 4,000.00 (male gender)
 
-### Treasury Benefits : GRANTS [$] 7,999.00
+
+### Treasury Benefits : GRANTS [$] 11,040.00
 
 ### Pay Exemptions ---
 
-* * * [+THRICE-Benefit+] Combo : combining the states of [Utah + Washington + Wisconsin] 
+* [Triple-Aspected Benefits] Thrice-Combo : MONOGOMOUS-MARRIAGE 
+combining the states of [Utah + Washington + Wisconsin] 
