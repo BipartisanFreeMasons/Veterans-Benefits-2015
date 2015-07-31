@@ -1,5 +1,5 @@
 # Lincoln's 10-Year Plan : 
-## "Care for the Man born of the battle, his Widow and his Orphan..."
+### "Care for the Man born of the battle, his Widow and his Orphan..."
 
 ### Fiscal-Year : [2015-2017] BUDGETING RETIREMENT
 [$] BENEFITS : for the Veterans' Family
