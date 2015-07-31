@@ -13,7 +13,7 @@
 [$] 6,400.00 (female gender) --- [$] 4,000.00 (male gender)
 ## Head of Family : ($) 4,000.00 - ($) 6,400.00
 ## Head of House : ($) 1,500.00 - ($) 3,000.00
-   [$] 4,000.00 + (OTHER BENEFITS)
+### ($) FIXED SINGLE INSTALLMENT PAYMENT FOR 1 FISCAL-YEAR OF GRANTED BENEFITS 
 ## Spouse Accredited Self-Employment
  [small business] --- [non-profit]
  * (TRADE-MARKS) : Worn on the hip or thigh by the two heads of thr household, in honor of the Family-Safety and preservation of last-name & property ownership, rights.
