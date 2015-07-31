@@ -1,10 +1,15 @@
-### "Care for the Man born of the battle, his Widow and his Orphan..."
-# Lincolns' 10-Year Plan
+"Care for the Man born of the battle, his Widow and his Orphan..."
+# * Lincolns' 10-Year Plan
 
 ## Fiscal-Year : [2015-2017] BUDGETING RETIREMENT
 ### [$] BENEFITS : for the Veterans' Family
-
-
+[Questions & Answers] ---
+* 1.) DO THE BENEFITS COVER BURIAL COSTS FOR VETERANS' FAMALIES?
+   [answer]: The costs of burial for U.S. Military family members is (100%) granted for all Servicemen in all branches of the U.S. Military for all likes of U.S. Army officials who are currently serving and who will serve in the future and who died over-seas in [Iraq] or any other wars in the history of the United States of America.
+* 2.) DO THE BENEFITS CONSIDER THE COST OF BASIC-NEEDS FOR VETERANS' CHILDREN-PROSPECTORS?
+   [answer]: Any children born to a Serviceman and his Spouse or partner is automatically embraced into the federal-government's Extended Reach for Aiding all potential Orphans of Combat, taking titleship of k-12 career-prospect for the Future Generations of American Leaders.
+* 3.) DO CHILD-PROSPECTORS IN K-12 SCHOOLS RECIEVE ADDITIONAL BENEFIT($) FOR SCHOOL-SUPPLIES?
+   [answer]: 
 # Veterans-Benefits-2015
 [$] (U.S.D.) : amounts of benefits per person
 
