@@ -17,7 +17,7 @@
 * A single fiscal-year can apply at different rates throughout a persons' lifetime, during early years before retirement, a beneficiary can recieve twin grants of parallel amounts in order to maintain an investment undertaken with beginning lump-sum installment of beneficiary-aid grants for Healthcare Reform. 
 
 # Spouse Accredited Self-Employment
-### [small business] --- [non-profit]
+### [Small Business] --- [Non-Profit] --- [Veteran-Owned Small Business] --- [Self-Employed]
 
 * (TRADE-MARKS) : Worn on the hip or thigh by the two heads of thr household, in honor of the Family-Safety and preservation of last-name & property ownership, rights.
 
