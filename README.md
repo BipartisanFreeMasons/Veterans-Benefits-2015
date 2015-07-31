@@ -12,6 +12,6 @@
 
 ### Treasury Benefits : GRANTS [$] 7,999.00
 
+### Pay Exemptions ---
 
-*** [+THRICE-Benefit+] Combo : combining the states of [Utah + Washington + Wisconsin]
-# Pay Exemptions : [$] 
+* * * [+THRICE-Benefit+] Combo : combining the states of [Utah + Washington + Wisconsin] 
