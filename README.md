@@ -11,7 +11,8 @@
 # Cost of Living : (yearly lump-sum benefits)
 ### Lump-Sum Beneficiaries : (based on gender)
 [$] 6,400.00 (female gender) --- [$] 4,000.00 (male gender)
-[*] Head of Family --- [*] Head of House
+   [Head of Family] --- [Head of House]
+   [$] 4,000.00 + (OTHER BENEFITS)
 ## Spouse Accredited Self-Employment
  [small business] --- [non-profit]
  * (TRADE-MARKS) : Worn on the hip or thigh by the two heads of thr household, in honor of the Family-Safety and preservation of last-name & property ownership, rights.
