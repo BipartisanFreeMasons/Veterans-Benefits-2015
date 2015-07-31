@@ -10,9 +10,9 @@
 
 # Cost of Living : (yearly lump-sum benefits)
 # Lump-Sum Beneficiaries : (based on gender)
-* * [$] 6,400.00 (female gender) --- [$] 4,000.00 (male gender)
-## Head of Family : ($) 4,000.00 - ($) 6,400.00
-## Head of House : ($) 1,500.00 - ($) 3,000.00
+### (Female)  [$] 6,400.00 --- (Male) [$] 4,000.00
+# [Head of Family] : ($) 4,000.00 - ($) 6,400.00
+# [Head of House] :  ($) 1,500.00 - ($) 3,000.00
 ### ($) FIXED SINGLE INSTALLMENT PAYMENT FOR 1 FISCAL-YEAR OF GRANTED BENEFITS 
 ## Spouse Accredited Self-Employment
  [small business] --- [non-profit]
